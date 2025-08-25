@@ -6,9 +6,9 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        questao1();
-        questao2();
-        questao3();
+        //questao1();
+        //questao2();
+        //questao3();
     }
 
     public static void questao1() {
